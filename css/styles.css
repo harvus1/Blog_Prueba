@@ -1,18 +1,19 @@
 body
 {
-color: blue;     
+color: black;     
 text-align: center;
-font-family: "Arial";
+font-family: "Helvetica";
 font-size: 16px;
 margin: 0;
 padding: 0;
+background:  teal;
 }
 
 #cabecera
 {
-    background: #33A;
+    background:  orange;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
