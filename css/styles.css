@@ -34,3 +34,13 @@ body {
   margin: 15px 5px auto auto;
   padding: 5px 10px 5px 10px;
 }
+.button {
+    opacity: 1;
+  }
+  .button:hover {
+    opacity: 0.75;
+  }
+  .new-quote-button {
+    float: right;
+  }
+  
